@@ -1,0 +1,13 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "date".(›ëŒÁ8—†àŸ.
+J
+java:S1481"-Remove this unused "calendar" local variable.(£„Ş£8—†àŸ.
+Q
+java:S1128"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8—†àŸ.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ÎĞÌ8åßŸ.
+Y
+java:S1854"<Remove this useless assignment to local variable "calendar".(£„Ş£8—†àŸ.
+F
+java:S1481")Remove this unused "date" local variable.(›ëŒÁ8—†àŸ.
